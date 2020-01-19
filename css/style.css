@@ -13,7 +13,7 @@ section {
 .box-1 {
   background: #ffffff;
   height: 200px;
-  padding: 10px 5px 5px 50px;
+  padding: 5px 50px;
   border-radius: 5px 5px 0px 0px;
   text-align: justify;
   box-sizing: border-box;
@@ -30,6 +30,8 @@ section {
 .box-1 h2 {
   color: #bfdf32;
   font-weight: 400;
+
+  padding: 0;
 }
 
 .box-2 {
