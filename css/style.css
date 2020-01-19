@@ -1,64 +1,64 @@
 body {
   margin: 40px 100px;
-  font-size: 18px;
+  font-size: 16px;
   font-family: url(../fonts/karla/Karla-Bold.ttf);
   background-color: #e6e6e6;
-  float: none;
 }
 
 section {
-  padding: 50px 0px;
+  padding: 20px 0px;
 }
 
 .box-1 {
   background: #ffffff;
   height: 200px;
-  padding: 5px 50px;
   border-radius: 5px 5px 0px 0px;
-  text-align: justify;
-  box-sizing: border-box;
-  overflow: hidden;
-  float: none;
 }
 
 .box-1 h1 {
   color: #2bb3b1;
   font-weight: 700;
   font-family: url(../fonts/karla/Karla-Regular.ttf);
+  padding: 20px 50px 0px 50px;
 }
 
 .box-1 h2 {
   color: #bfdf32;
   font-weight: 400;
+  padding: 0px 5px 0px 50px;
+}
 
-  padding: 0;
+.box-1 p {
+  padding: 0px 0px 0px 50px;
+  overflow: hidden;
 }
 
 .box-2 {
   background: #2bb3b1;
   color: #ffffff;
   height: 300px;
-  padding-top: 30px;
-  border-radius: 0px 0px 0px 5px;
+  padding-top: 20px;
+  border-radius: 0px 0px 5px 5px;
   box-sizing: border-box;
   overflow: hidden;
 }
 .box-2 h3 {
-  padding-left: 100px;
-  word-spacing: 10px;
+  padding-left: 50px;
+  word-spacing: 5px;
   font-weight: 400;
   font-family: url(../fonts/karla/Karla-Regular.ttf);
-  margin: 20px 50px 20px 50px;
+  margin: 10px 30px 20px 10px;
 }
 
 .box-2 p {
-  padding-left: 100px;
-  margin: 20px 50px 20px 50px;
+  padding-left: 50px;
+  margin: 10px 20px 20px 10px;
 }
 
 .box-2 .xl {
   font-size: 50px;
   font-weight: 400;
+  margin: 5px 10px 5px 10px;
 }
 
 .box-2 .btn {
@@ -66,8 +66,8 @@ section {
   color: #ffffff;
   border-radius: 5px;
   border-color: #bfdf32;
-  margin: 10px 140px;
-  padding: 20px 100px 20px 100px;
+  margin: 5px 10px 5px 70px;
+  padding: 5px 50px;
 }
 
 .box-2 .btn:hover {
@@ -79,7 +79,7 @@ section {
   color: #ffffff;
   height: 300px;
   padding: 20px;
-  border-radius: 0px 0px 5px 0px;
+  border-radius: 0px 0px 5px 5px;
   text-align: justify;
   font-size: 14px;
   box-sizing: border-box;
@@ -87,7 +87,7 @@ section {
 }
 
 .box-3 h3 {
-  padding-left: 80px;
+  padding-left: 50px;
   line-height: 1.5em;
   word-spacing: 10px;
   font-weight: 700;
@@ -97,5 +97,6 @@ section {
 .box-3 p {
   line-height: 1em;
   font-weight: 400;
-  padding-left: 100px;
+  padding-left: 50px;
 }
+/*  padding: 5px 50px; text-align: justify; */
