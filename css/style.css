@@ -1,0 +1,123 @@
+body {
+  font-size: 18px;
+  font-family: url(../fonts/karla/Karla-Bold.ttf);
+  background-color: #e6e6e6;
+  float: none;
+}
+
+/* /* .grid-100 .grid-parent  */
+section {
+  padding: 50px 0px;
+}
+
+.box-1 {
+  background: #ffffff;
+  height: 200px;
+  padding: 10px 5px 5px 50px;
+  border-radius: 5px 5px 0px 0px;
+  text-align: justify;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.box-1 h1 {
+  color: #2bb3b1;
+  font-weight: 700;
+  font-family: url(../fonts/karla/Karla-Regular.ttf);
+}
+
+.box-1 h2 {
+  color: #bfdf32;
+  font-weight: 400;
+}
+
+.box-2 {
+  background: #2bb3b1;
+  color: #ffffff;
+  height: 300px;
+  padding-top: 30px;
+  border-radius: 0px 0px 0px 5px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.box-2 h3 {
+  padding-left: 100px;
+  word-spacing: 10px;
+  font-weight: 400;
+  font-family: url(../fonts/karla/Karla-Regular.ttf);
+  margin: 20px 50px 20px 50px;
+}
+
+.box-2 p {
+  padding-left: 100px;
+  margin: 20px 50px 20px 50px;
+}
+
+.box-2 .xl {
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.box-2 .btn {
+  background: #bfdf32;
+  color: #ffffff;
+  border-radius: 5px;
+  border-color: #bfdf32;
+  margin: 10px 140px;
+  padding: 20px 100px 20px 100px;
+  box-sizing: border-box;
+}
+
+.box-2 .btn:hover {
+  background: #ffffff;
+  color: #2bb3b1;
+}
+.box-3 {
+  background: #4abebd;
+  color: #ffffff;
+  height: 300px;
+  padding: 20px;
+  border-radius: 0px 0px 5px 0px;
+  text-align: justify;
+  font-size: 14px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.box-3 h3 {
+  padding-left: 80px;
+  line-height: 1.5em;
+  word-spacing: 10px;
+  font-weight: 700;
+  font-family: url(../fonts/karla/Karla-Regular.ttf);
+  margin: 20px 50px 20px 50px;
+}
+.box-3 p {
+  line-height: 1em;
+  font-weight: 400;
+  padding-left: 100px;
+}
+
+/* section .box-1 {
+  padding-top: 20px 15px 0px 5px;
+  margin: 50px;
+  height: 200px;
+  background: #ffffff;
+  color: #2bb3b1;
+  box-sizing: border-box;
+}
+
+section .box-2 {
+  margin: 20px 10px;
+  background: #4abebd;
+  color: #ffffff;
+  height: 250px;
+}
+
+section .box-3 {
+  background: #2bb3b1;
+  color: #ffffff;
+  height: 250px;
+} */
+
+/* #bfdf32  #2bb3b1  #4abebd */
